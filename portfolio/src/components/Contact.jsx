@@ -58,13 +58,7 @@ function Contact() {
             href={gmailLink}
           />
 
-          {/* Phone */}
-          <ContactItem
-            label="Phone"
-            value="03005205728"
-            href="tel:03005205728"
-          />
-
+          
           {/* GitHub */}
           <ContactItem
             label="GitHub"
